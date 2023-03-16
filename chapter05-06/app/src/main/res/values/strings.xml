@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">JAVA编程实现(线性布局)</string>
+    <string name="names">姓名：</string>
+    <string name="gender">性别：</string>
+    <string name="age">年龄：</string>
+    <string name="sno">学号：</string>
+    <string name="cancle">取消</string>
+    <string name="sure">确定</string>
+    <string name="jump">回到主界面</string>
+</resources>

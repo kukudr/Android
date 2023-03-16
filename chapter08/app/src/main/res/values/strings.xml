@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="action">
+        <item>奔驰</item>
+        <item>奥迪</item>
+        <item>大众</item>
+    </string-array>
+</resources>

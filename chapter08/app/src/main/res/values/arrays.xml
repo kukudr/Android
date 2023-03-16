@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data">
+        <item>奔驰</item>
+        <item>奥迪</item>
+        <item>路虎</item>
+        <item>大众</item>
+        <item>长安</item>
+    </string-array>
+</resources>
